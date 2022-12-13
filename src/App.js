@@ -1,14 +1,13 @@
 
 import './App.css';
-
-import Login from './Forms/Login';
+import SignUp from './Project/SHAM/signup';
 
 
 
 function App() {
   return (
     <div className="App">
-    <Login/>
+    <SignUp />
     </div>
   );
 }
